@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title": "Buidling a Todo App with React",
+        "cover": "https://nextjs.org/static/images/learn/foundations/next-app.png",
+        "author": "Peter"
+    },
+    {
+        "id":2,
+        "title": "Getting started with TypeScript",
+        "cover": "https://nextjs.org/static/images/learn/foundations/components.png",
+        "author": "Josh"
+    }
+]
